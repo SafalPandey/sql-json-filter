@@ -7,3 +7,4 @@ Procedure to filter any table based on JSON params in SQL.
 | DB Engine    | Code example                                    |
 | ------------ | ----------------------------------------------- |
 | mssql-server | [apply_filter](./mssql-server/apply_filter.sql) |
+| pgsql-server | [apply_filter](./pgsql-server/apply_filter.sql) |
